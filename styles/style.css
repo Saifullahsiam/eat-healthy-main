@@ -1,0 +1,247 @@
+/*------------------
+Start this practice day 01 css code
+--------------------------------*/
+
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*------------
+This is header section
+---------------------- */
+
+
+
+.header {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.header-content {
+    margin: 180px 100px 40px 100px;
+    height: 100%;
+    width: 35%;
+}
+
+.main-content {
+    font-size: 50px;
+}
+
+
+.header-pa {
+    font-size: 20px;
+}
+
+
+.skip {
+    color: #FBA24F;
+}
+
+
+
+
+.order-button {
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 15px;
+    color: white;
+
+
+
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+
+
+}
+
+.header-img {
+    position: absolute;
+    left: 598px;
+    top: 70px;
+
+}
+
+
+
+#img1 {
+    height: 650px;
+    width: 700px;
+}
+
+
+/*-----------
+End Header Section
+----------------*/
+
+
+
+
+
+/*------------
+Start About Me
+-----------------*/
+
+
+.about-me {
+    background-image: url(../images/shapes/7.png);
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.about-img {
+    padding-top: 50px;
+}
+
+.about-content {
+    padding: 40px 200px;
+
+}
+
+.about-heading {
+    font-size: 40px;
+}
+
+/*-------------
+End About Me
+---------------*/
+
+
+
+
+
+
+
+/*-----------------
+    MY Recipes
+---------------*/
+
+.recipies {
+    margin-left: 270px;
+    text-align: center;
+    gap: 30px;
+    width: 706px;
+    height: 159px;
+    font-size: 20px;
+
+
+}
+
+.recipe-option {
+    display: flex;
+    gap: 15px;
+    margin-left: 50px;
+
+}
+
+
+.recipe-title {
+    width: 610px;
+    height: 650px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+    font-size: 20px;
+
+
+}
+
+#recipe-img {
+    height: 300px;
+    width: 550px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.recipe-content {
+    padding: 5%;
+}
+
+
+
+/*-----------------
+    End MY Recipes
+---------------*/
+
+
+
+
+
+
+/*------------
+This is people tag
+-----------------*/
+
+.people {
+    background: #FFFFFF;
+    display: flex;
+    width: 1000px;
+    margin-left: 150px;
+    height: 226px;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    margin-top: 20px;
+
+}
+
+#people-number {
+    font-size: 35px;
+    padding-left: 150px;
+    padding-top: 35px;
+
+
+}
+
+.people-caracter {
+    font-size: 15px;
+    margin-top: -40px;
+}
+
+
+
+
+
+
+
+/*------------
+This is footer tag
+-----------------*/
+
+footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 256px;
+    font-size: 15px;
+    margin: 92px 0px 92px 0px;
+
+}
+
+.footer-content {
+    padding-top: 35px;
+    font-size: 30px;
+}
+
+.span-color {
+    color: brown;
+}
+
+.fresh-color {
+    color: gray;
+}
+
+/*------------
+End This footer tag.
+-----------------*/
+
+
+
+
+/*------------
+End practice day 1 all css code.
+/
+End Eat Main Healthy Main.
+-----------------*/
